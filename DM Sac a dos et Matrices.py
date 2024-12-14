@@ -1,4 +1,4 @@
-# Code par Raphael CLEMENT & Hugo GRAFFIN & Safiya BEKHTI
+# Code par Raphael CLEMENT
 
 def sac_a_dos(poids_max, objets, nom):
     '''
