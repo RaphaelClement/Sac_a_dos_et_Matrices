@@ -1,5 +1,3 @@
-# Code par Raphael CLEMENT
-
 def sac_a_dos(poids_max, objets, nom):
     '''
     Pour prouver l'optimalité, supposons qu'il existe une solution alternative, notée A, qui diffère
